@@ -1,0 +1,34 @@
+{
+  "name": "window-capture",
+  "version": "0.0.0",
+  "description": "Captures parts of application windows at an interval as a png image.",
+  "main": "window-capture.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thlorenz/window-capture.git"
+  },
+  "homepage": "https://github.com/thlorenz/window-capture",
+  "dependencies": {
+    "shortid": "~2.2.6",
+    "window-tracker": "~1.0.1"
+  },
+  "devDependencies": {
+    "tape": "~4.6.3"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "http://thlorenz.com"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/thlorenz/window-capture/blob/master/LICENSE"
+  },
+  "engine": {
+    "node": ">=4"
+  }
+}
