@@ -1,6 +1,6 @@
 {
   "name": "window-capture",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Captures parts of application windows at an interval as a png image.",
   "main": "window-capture.js",
   "scripts": {
